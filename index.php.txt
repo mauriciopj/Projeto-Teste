@@ -1,5 +1,5 @@
 Mauricio, 
-Amauri,
+Amauri,,
 Desenvolvimento do Projeto AgilizaPecas..
 
 ETAPA CONCLUÍDA
